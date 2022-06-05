@@ -62,6 +62,9 @@ body {
     .experiences {
         margin-right: 0;
     }
+    .end-block-experience{
+        margin-bottom: 20px;
+    }
 }
 /* contact info styles */
 .contact-info__header,
