@@ -263,3 +263,7 @@ body {
     color: var(--secondary-text-color);
     padding-left: 20px;
 }
+.project-link {
+    color: var(--text-decoration-color);
+    text-decoration: none;
+}
