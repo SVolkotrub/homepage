@@ -25,7 +25,7 @@ body {
 .fh {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .fv {
@@ -55,10 +55,6 @@ body {
         flex-direction: column;
     }
 
-    .contact_info_container {
-        align-items: center;
-    }
-
     .contact-info__block:not(:last-child) {
         margin-bottom: 20px;
     }
@@ -79,7 +75,9 @@ body {
     text-decoration-color: var(--text-decoration-color);
     text-decoration-line: underline;
 }
-
+.contact_info_container {
+    align-items: center;
+}
 .contact-info__sub-header {
     color: var(--secondary-text-color);
     margin-bottom: 30px;
