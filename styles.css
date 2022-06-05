@@ -236,13 +236,13 @@ body {
     font-size: 15px;
 }
 
-.additional-info__education-university-speciality {
+.additional-info__education-university-name {
     color: var(--primary-text-color);
     text-align: left;
     margin-bottom: 10px;
 }
 
-.additional-info__education-university-name {
+.additional-info__education-university-speciality {
     color: var(--secondary-text-color);
 }
 
