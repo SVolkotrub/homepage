@@ -267,3 +267,10 @@ body {
     color: var(--text-decoration-color);
     text-decoration: none;
 }
+.footer-icon {
+    color: var(--text-decoration-color);
+}
+
+.footer-icon:hover {
+    color: var(--secondary-text-color);
+}
